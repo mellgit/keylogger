@@ -5,3 +5,5 @@
 ### To install the library: ``` pip install pynput```<br/>
 
 ### Just run the script and everything that was pressed on the keyboard will be written to a file  ```keylogs.txt```
+
+### Link to manual: ```https://docs.python.org/3/library/logging.html```
